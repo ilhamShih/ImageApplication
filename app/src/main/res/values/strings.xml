@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ImageApplication</string>
+
+    <string name="clear_one_order">Удалить из списка ?</string>
+    <string name="confirm">Подтверждение</string>
+    <string name="dialog_option_yes">Да</string>
+    <string name="dialog_option_no">Нет</string>
+    <string name="dialog_option_cancel">Отмена</string>
+    <string name="dialog_option_add">Добавить</string>
+    <string name="btn_continue_shopping">Вернуться</string>
+    <string name="empty_cart">Список избранных пуст</string>
+    <string name="no_internet">Пожалуйста включите интернет</string>
+    <string name="failed_fetch_data">Не удалось получить данные! Пожалуйста, попробуйте еще раз.</string>
+
+
+
+
+</resources>
